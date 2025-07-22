@@ -1,16 +1,15 @@
 {
-  "name": "io",
+  "name": "func",
   "version": "1.0.0",
-  "main": "greetings.js",
+  "main": "greeterFunc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  },
-  "devDependencies": {},
-  "description": ""
+  }
 }
