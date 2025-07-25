@@ -16,4 +16,9 @@ function oddLengths(strings) {
 }
 
 let arr = ['a', 'abcd', 'abcde', 'abc', 'ab'];
+
+for (let index in arr) {
+  console.log(arr[index]);
+}
+
 console.log(oddLengths(arr)); // => [1, 5, 3]
